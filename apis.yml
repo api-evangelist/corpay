@@ -19,6 +19,24 @@ common:
     url: https://www.corpay.com
   - type: Integrations
     url: https://www.corpay.com/ap-automation/integrations
+integrations:
+  - name: Corpay
+  - name: arrow
+  - name: Group 52599
+  - name: AP Image
+  - name: Cross-Border Payments Image
+  - name: Group 53364
+  - name: Promo
+  - name: Scalable Partnerships
+  - name: Complete Payment Suite
+  - name: Real Growth, Real Revenue
+  - name: people smiling
+  - name: Partners chart
+  - name: Linkedin
+  - name: Twitter
+  - name: Youtube
+  - name: Podcasts for follow us
+  - name: Facebook
 maintainers:
   - FN: API Evangelist
     url: https://apievangelist.com
