@@ -21,6 +21,8 @@ common:
     url: https://www.corpay.com
   - type: Integrations
     url: https://www.corpay.com/ap-automation/integrations
+  - type: LLMsTxt
+    url: https://www.corpay.com/llms.txt
 integrations:
   - name: Corpay
   - name: arrow
