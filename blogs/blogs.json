@@ -1,0 +1,14 @@
+{
+  "repo": "corpay",
+  "feeds": [
+    {
+      "source": "https://www.corpay.com/resources",
+      "feed_url": "https://www.corpay.com/resources",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 3
+}
